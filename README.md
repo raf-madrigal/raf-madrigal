@@ -12,7 +12,7 @@
 
 ## About
 
-I’m an **open source developer** and **builder**—I like to **explore** a lot of things, break problems apart, and follow ideas from “what does the paper say?” to “does it actually run in prod?”. **Research** and **engineering** feel like the same hobby to me: try something, measure it, simplify, repeat.
+I’m a **developer** and **builder**—I like to **explore** a lot of things, break problems apart, and follow ideas from “what does the paper say?” to “does it actually run in prod?”. **Research** and **engineering** feel like the same hobby to me: try something, measure it, simplify, repeat.
 
 Most of my **~10 years** in the field have been at the messy intersection of **ML**, **data**, and **product**. Lately that’s meant **Gen AI**, **RAG**, **LangGraph**, and **multi-agent** workflows in **regulated finance**; before that, similar puzzles at **GCash**, **Unionbank**, and earlier analytics roles. I care about the craft—clean libraries, sharp retrieval, fairness and privacy when models touch real people.
 
